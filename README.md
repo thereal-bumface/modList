@@ -26,6 +26,7 @@ Welcome to The Bumface Experience!
       8 Sticky Jumper Stickies at Once
       Halloween Cosmetics Enabled
       No Thriller Taunt
+      Conscientious Objector, Flair!, Photo Badge, Clan Pride, and sprays disabled for moderation purposes.
 
       On this server I'll chill, talk, make friends, and spread positivity.
       You can find me on YouTube: therealbumface, host of "The Bumface Experience"
