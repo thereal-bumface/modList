@@ -5,14 +5,14 @@ Welcome to The Bumface Experience!
 
       Mod List:
       !rtv (rock the vote / change map)
-      - plr_hightower_rainy_bum = RTD
-      - arena_badlands = Saxton Hale
-      - arena_brawl_b1 = Prop Hunt
-      - tfdb_pacmen_a4 = Dodge Ball
-      - dr_pathway_a13 = Death Run
-      - surf_utopia_v3 = Surf
-      - jump_beef = Jump
-      - pl_badwater = Vanilla
+            - plr_hightower_rainy_bum = RTD
+            - arena_badlands = Saxton Hale
+            - arena_brawl_b1 = Prop Hunt
+            - tfdb_pacmen_a4 = Dodge Ball
+            - dr_pathway_a13 = Death Run
+            - surf_utopia_v3 = Surf
+            - jump_beef = Jump
+            - pl_badwater = Vanilla
       !givemeall (achievement items)
       !taunts (free taunts)
       !rtd (roll the dice)
